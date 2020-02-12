@@ -19,4 +19,4 @@ jobs:
           prerelease: false
           title: "Top Chats List"
           files: |
-            combot-all.json
+            topchats.json
