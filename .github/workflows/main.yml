@@ -17,6 +17,6 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: false
-          title: "Top Chats Update"
+          title: "Top Chats List"
           files: |
             combot-all.json
