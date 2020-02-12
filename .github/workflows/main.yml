@@ -7,7 +7,7 @@ on:
 
 jobs:
   pre-release:
-    name: "Release"
+    name: "Publish Chats"
     runs-on: "ubuntu-latest"
 
     steps:
