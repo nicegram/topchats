@@ -46,7 +46,7 @@ for k, v in stats.items():
     print(k, v)
 
 with open('topchats.json', 'w') as f:
-    json.dump(chats, f, ensure_ascii=False)
+    json.dump(result, f, ensure_ascii=False)
 
 
     
