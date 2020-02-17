@@ -33,6 +33,8 @@ stop_words = (
     "ass",
     "ripple",
     "btm",
+    "nsfw",
+    "r18"
 )
 ignore_usernames = "vidnie_podrugi"
 filter_usernames = (
